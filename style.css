@@ -1,7 +1,7 @@
 body {
 	background-color: #232323;
 	margin: 0;
-	font-family: "Montserrat". "Avenir";
+	font-family: 'Kaushan Script', cursive;
 }
 
 .square {
@@ -56,6 +56,7 @@ h1 {
 	color: steelblue;
 	letter-spacing: 1px;
 	font-size: inherit;
+	font-family: 'Kaushan Script', cursive;
 }
 
 button {
@@ -71,6 +72,7 @@ button {
 	/*	added browser support*/
 	-webkit-transition: all .5s;
 	-moz-transition: all .5s;
+	font-family: 'Kaushan Script', cursive;
 }
 
 button:hover {
