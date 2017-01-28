@@ -1,4 +1,4 @@
-#The Great RBG Color Game!
+#The Great RGB Color Game!
 
 Get to know your rbg colors by playing this game.
 
